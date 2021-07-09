@@ -1,4 +1,10 @@
-## Welcome to GitHub Pages
+## GitHub OnePager Demo
+
+=====================
+
+This demo was created for use in demos and trainings to have educators play with GitHub, GitHub Pages, and Jekyll.
+
+=====================
 
 You can use the [editor on GitHub](https://github.com/wiobyrne/onepager/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
