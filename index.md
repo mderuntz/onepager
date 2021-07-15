@@ -4,28 +4,17 @@
 
 ### Description 
 
-
-<div style="clear: both;">
-  <div style="float: left; margin-right 1em;">
-    <img src="https://live.staticflickr.com/3559/5824727224_39c3ba8247_o.png" alt="ChangeMe">
-  </div>
-  <div>
-    <h2>Some title text</h2>
-    <p>[CHANGEME].com
-@[CHANGEME]
-linkedin.com/in/[CHANGEME]
-github.com/[CHANGEME]
 </p>
   </div>
 </div>
-
+<p>
 ![ChangeMe](https://live.staticflickr.com/3559/5824727224_39c3ba8247_o.png){: style="float: left"}
 
 [CHANGEME].com
 @[CHANGEME]
 linkedin.com/in/[CHANGEME]
 github.com/[CHANGEME]
-
+</p>
 =====================
 
 **In A Nutshell**
