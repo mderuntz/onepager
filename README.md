@@ -2,7 +2,10 @@
 
 =====================
 
-This demo was created for use in demos and trainings to have educators play with GitHub, GitHub Pages, and Jekyll.
+## Firstname Lastname
+
+### Description 
+
 
 =====================
 
@@ -14,30 +17,17 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
+**In A Nutshell**
+Sartorial schlitz ugh excepteur officia, placeat you probably haven't heard of them aute typewriter laborum culpa. Reprehenderit DIY microdosing roof party vinyl. Pug bespoke single-origin coffee distillery, austin culpa voluptate quis keytar. Ennui seitan health goth, gluten-free pop-up VHS truffaut. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Affogato food truck sint, kinfolk yr cornhole single-origin coffee artisan chambray banh mi. Selfies authentic cred crucifix, flexitarian thundercats cronut pug disrupt health goth. Crucifix magna ex, etsy kale chips tote bag jean shorts.
 
-### Jekyll Themes
+```
+Superpowers | 
+__________ | _______________
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wiobyrne/onepager/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+First |
+Second |
+Third |
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
