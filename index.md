@@ -4,7 +4,8 @@
 
 ### Description 
 
-![ChangeMe](https://live.staticflickr.com/3559/5824727224_39c3ba8247_o.png)
+![ChangeMe](https://live.staticflickr.com/3559/5824727224_39c3ba8247_o.png){: style="float: left"}
+
 [CHANGEME].com
 @[CHANGEME]
 linkedin.com/in/[CHANGEME]
