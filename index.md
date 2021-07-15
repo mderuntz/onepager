@@ -4,7 +4,11 @@
 
 ### Description 
 
-![profilepic](https://live.staticflickr.com/33/45372011_32bc662de6_m.jpg)
+![ChangeMe](https://live.staticflickr.com/33/45372011_32bc662de6_m.jpg)
+[CHANGEME].com
+@[CHANGEME]
+linkedin.com/in/[CHANGEME]
+github.com/[CHANGEME]
 
 =====================
 
@@ -26,7 +30,7 @@ Affogato food truck sint, kinfolk yr cornhole single-origin coffee artisan chamb
 
 ### Experience (last five years)
 
-- Organization / Role
+Organization / Role
 YEAR - PRESENT (LOCATION)
 
 Organization / Role
@@ -37,3 +41,8 @@ YEAR - PRESENT (LOCATION)
 
 =====================
 
+### Current Interests
+
+- First 
+- Second
+- Third 
